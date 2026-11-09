@@ -137,7 +137,7 @@ _All rights reserved._
 **Developer:** Muhammad Abdullah  
 **Email:** [khurshidabdullah9@gmail.com](mailto:khurshidabdullah9@gmail.com)  
 **University:** Lahore Garrison University, Lahore  
-**GitHub Repository:** [https://github.com/abdullahkhu1965/franzy.git](https://github.com/abdullahkhu1965/franzy.git)
+**GitHub Repository:** [https://github.com/abdullahkhu1965/franzy.git](https://github.com/mabdullahkhurshid/franzy.git)
 
 ---
 
